@@ -1,8 +1,7 @@
-<a href="https://ibb.co/hYCG01P"><img src="https://i.ibb.co/Rj7X84x/Navy-And-White-Geometric-Technology-Linked-In-Banner.png" alt="Navy-And-White-Geometric-Technology-Linked-In-Banner" border="0"></a>
+<a href=""><img src="https://i.ibb.co/Rj7X84x/Navy-And-White-Geometric-Technology-Linked-In-Banner.png" alt="Navy-And-White-Geometric-Technology-Linked-In-Banner" border="0"></a>
 <h1 align="center">Hi 👋, I'm R4G3-F14M3</h1>
 <h3 align="center">Security is just an illusion 👾 Python is Love</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4g3-f14m3&label=Profile%20views&color=0e75b6&style=flat" alt="r4g3-f14m3" /> </p>
 
 - 🌱 I’m currently learning **Python, Golang**
